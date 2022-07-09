@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7FLtcOUnMRx+m3vOyhLrlvndpmtZo/T4zo1mf+iN0mHR72RERUK8UvLxSTj/My3kk8EngT+sT1P8M6t4MacUcQ==",
+  "dgSpecHash": "A69qu9p4IZommL2H64ANEefOl7hSAFJcSmYkgnUrd7BuSq/1Fj9fW8TyADyR+LCWYkUtbz4DW56XGh1pO47SyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\patri\\OneDrive\\Documents\\training\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.6\\microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "C:\\Users\\patri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.6\\microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
