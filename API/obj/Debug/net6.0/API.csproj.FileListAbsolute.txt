@@ -31,3 +31,13 @@ C:\Users\patri\Documents\training\Reactivities\API\obj\Debug\net6.0\refint\API.d
 C:\Users\patri\Documents\training\Reactivities\API\obj\Debug\net6.0\API.pdb
 C:\Users\patri\Documents\training\Reactivities\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\patri\Documents\training\Reactivities\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.dll
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\patrick.korczak\Documents\App\Reactivities\API\obj\Debug\net6.0\API.pdb
