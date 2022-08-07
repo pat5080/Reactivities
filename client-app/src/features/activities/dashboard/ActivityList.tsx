@@ -44,7 +44,6 @@ export default function ActivityList({activities, selectActivity, deleteActivity
                         </Item.Content>
                     </Item>
                 ))}
-
             </Item.Group>
         </Segment>
     )
