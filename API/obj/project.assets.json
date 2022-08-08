@@ -1594,23 +1594,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patri\\.nuget\\packages\\": {},
+    "C:\\Users\\patrick.korczak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Documents\\training\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\patrick.korczak\\Documents\\App\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\patri\\Documents\\training\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Documents\\training\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\Users\\patrick.korczak\\Documents\\App\\Reactivities\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\patrick.korczak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\patrick.korczak\\Documents\\App\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\patrick.korczak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1619,14 +1619,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\patri\\Documents\\training\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\patri\\Documents\\training\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\patrick.korczak\\Documents\\App\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\patrick.korczak\\Documents\\App\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
@@ -1658,7 +1659,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1670,7 +1672,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
       }
     }
   }
